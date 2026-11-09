@@ -122,4 +122,4 @@ backup-web-python/
 
 ## Autor
 
-Kayky, estudante de Sistemas de Informação.
+Kayky Matheus Honorio Manoel, estudante de Sistemas de Informação.
